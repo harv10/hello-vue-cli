@@ -1,5 +1,11 @@
 # hello-vue-cli
 
+## Useful VS code Extensions
+```
+Vue Language Features
+Prettier - Code Formatter
+```
+
 ## Project setup
 ```
 npm install
